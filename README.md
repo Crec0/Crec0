@@ -1,6 +1,7 @@
 # Hey, I am Crec0 
 
 I work mainly on minecraft mods and utilities, and some personal projects here 'n there.
+Currently developing [Carpet rules database](https://carpet-rules.crec.dev/) 👀
 
 Currently learning Kotlin and GoLang.
 
