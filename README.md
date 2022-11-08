@@ -1,9 +1,10 @@
 # Hey, I am Crec0 
 
 I work mainly on minecraft mods and utilities, and some personal projects here 'n there.
-Currently developing [Carpet rules database](https://carpet-rules.crec.dev/) 👀
 
-Currently learning Kotlin and GoLang.
+## Developing 
+- [HawksBill](https://github.com/Crec0/HawksBill)
+- [Carpet rules database](https://carpet-rules.crec.dev/)
 
 #### Languages
 <a href="https://github.com/Crec0">
@@ -21,7 +22,8 @@ Currently learning Kotlin and GoLang.
 </a>
 
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/python-%3670A000?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
